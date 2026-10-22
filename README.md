@@ -2,4 +2,4 @@
 
 # MicEffector
 Lighthost 오래돼서 vst3 안돼서 만들었는데
-https://github.com/heide-oficial/Light-Host-Modern 나왔으니 이거 쓰는게 나을듯..
+https://github.com/heide-oficial/Light-Host-Modern 이거 쓰는게 나을듯..
